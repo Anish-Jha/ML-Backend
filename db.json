@@ -1,27 +1,28 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Anish",
-			"password":"12345",
-      "confirm":"12345",
-      "email":"a@gmail.com"
-    },
-    {
-      "id": 2,
-      "name": "Manish",
-			"password":"12345",
-      "confirm":"12345",
-      "email":"m@gmail.com"
-    }
-  ],
-"courses":[
-	{"id":1,
-	 "name":"Anish",
-	 "surname":"Jha",
-	 "mobile":"123456789",
-	"email":"a@gmail.com",
-	"course":"Web Development",
-	}
-]
+    "users": [
+        {
+            "id": 1,
+            "name": "Anish",
+            "password": "12345",
+            "confirm": "12345",
+            "email": "a@gmail.com"
+        },
+        {
+            "id": 2,
+            "name": "Manish",
+            "password": "12345",
+            "confirm": "12345",
+            "email": "m@gmail.com"
+        }
+    ],
+    "courses": [
+        {
+            "id": 1,
+            "name": "Anish",
+            "surname": "Jha",
+            "mobile": "123456789",
+            "email": "a@gmail.com",
+            "course": "Web Development"
+        }
+    ]
 }
