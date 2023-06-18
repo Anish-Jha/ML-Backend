@@ -14,5 +14,14 @@
       "confirm":"12345",
       "email":"m@gmail.com"
     }
-  ]
+  ],
+"courses":[
+	{"id":1,
+	 "name":"Anish",
+	 "surname":"Jha",
+	 "mobile":"123456789",
+	"email":"a@gmail.com",
+	"course":"Web Development",
+	}
+]
 }
